@@ -1,0 +1,41 @@
+{
+  "name": "chrome-extension-locales",
+  "version": "1.0.0",
+  "description": "Generate messages.json and description files for Chrome Extensions using the Google Translate API",
+  "main": "main.js",
+  "scripts": {
+    "update_savedev": "npm update --save-dev",
+    "update_save": "npm update --save",
+    "prune": "npm prune",
+    "delete_all": "rmdir node_modules /s /q"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opus1269/chrome-extension-locales.git"
+  },
+  "author": "Michael Updike <igreilly1269@gmail.com>",
+  "license": "BSD 3-Clause",
+  "bugs": {
+    "url": "https://github.com/opus1269/chrome-extension-locales/issues"
+  },
+  "homepage": "https://github.com/opus1269/chrome-extension-locales",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/translate": "^0.8.1",
+    "googleapis": "^19.0.0",
+    "jsonfile": "^3.0.0"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "eslint": "^3.16.1",
+    "eslint-config-google": "^0.7.1",
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.1.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-if": "^2.0.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-size": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "run-sequence": "^1.2.2"
+  }
+}

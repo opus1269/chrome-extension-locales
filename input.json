@@ -1,0 +1,29 @@
+{
+  "messages": {
+    "path": "../photo-screen-saver/store/machine_translate_locales",
+    "filename": "messages.json",
+    "language": {
+      "dir": "en_US",
+      "iso_code": "en"
+    }
+  },
+  "description": {
+    "path": "../photo-screen-saver/store/machine_translate_descriptions",
+    "filename": "description.txt",
+    "dir": "en_US",
+    "language": {
+      "dir": "en_US",
+      "iso_code": "en"
+    }
+  },
+  "languages": [
+    {
+      "dir": "es",
+      "iso_code": "es"
+    },
+    {
+      "dir": "zh_TW",
+      "iso_code": "zh-TW"
+    }
+  ]
+}

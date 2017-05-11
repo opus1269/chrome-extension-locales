@@ -1,0 +1,22 @@
+node_modules
+secure
+dev
+JSDoc
+*.tmp
+*.db
+
+# IntelliJ
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/libraries
+
+# Mac OS X clutter
+*.DS_Store
+
+# Windows clutter
+Thumbs.db
+*- Copy*
+
