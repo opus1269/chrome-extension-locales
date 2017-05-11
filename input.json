@@ -22,8 +22,44 @@
       "iso_code": "es"
     },
     {
+      "dir": "fr",
+      "iso_code": "fr"
+    },
+    {
+      "dir": "nl",
+      "iso_code": "nl"
+    },
+    {
+      "dir": "it",
+      "iso_code": "it"
+    },
+    {
+      "dir": "ja",
+      "iso_code": "ja"
+    },
+    {
+      "dir": "ru",
+      "iso_code": "ru"
+    },
+    {
+      "dir": "de",
+      "iso_code": "de"
+    },
+    {
+      "dir": "ko",
+      "iso_code": "ko"
+    },
+    {
       "dir": "zh_TW",
       "iso_code": "zh-TW"
+    },
+    {
+      "dir": "he",
+      "iso_code": "iw"
+    },
+    {
+      "dir": "hi",
+      "iso_code": "hi"
     }
   ]
 }
